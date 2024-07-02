@@ -387,6 +387,7 @@ span2{
 #travelGallery .boxes img{
     border-radius: 4%;
     width: 23vw;
+    height: 15vw;
 }
 
 #travelGallery .boxes .box{
